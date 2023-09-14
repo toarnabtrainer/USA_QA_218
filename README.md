@@ -16,6 +16,12 @@ https://www.youtube.com/watch?v=OUkHXMwu-JY
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
 
+**Before appearing for the Class number-16, ensure the following issues:**
+* Make your Chrome as your default browser
+* Keep your Chrome updated to the latest version
+* Note the current version of Chrome
+* Download and install Anaconda on your system for Jupyter Lab and/or Jupyter Notebook working
+
 **Python Study Material Links:**<br>
 **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
