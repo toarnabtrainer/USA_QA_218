@@ -31,6 +31,9 @@ https://www.onlinegdb.com/
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
+**Example User Stories:**<br>
+https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
+
 **Selenium Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
 https://pythonspot.com/category/selenium/<br>
